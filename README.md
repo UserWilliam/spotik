@@ -152,3 +152,7 @@ You can keep your fork, and thus your private Vercel instance up to date with th
 ## Note
 
 This wasn't a completely original idea. This was inspired by <a href="https://github.com/novatorem/novatorem">novatorem's project</a> that was supposed to be for me only. Since others have asked for the source code, I decided to make this a public repo. I also incorporated the latest two PR's from the orignal project into this one and made it easy to customize!
+
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://{PROJECT_NAME}.vercel.app/api" alt="Current Spotify Song">
+</a>
